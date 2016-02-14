@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<scirpt src="jsfail.js"></script>
+
+<link rel="stylesheet" type="text/css" href="stiilifail.css">
+
+</head>
+<body>
+
+<body background="http://images.alphacoders.com/817/81783.jpg">
+<title>
+Esimene lehekülg
+</title>
+
+<h1>PEALKIRI</h1>
+<br/>
+<p><b>Siia tuleb üks ilus pilt, mis ei kirjelda mitte midagi</b></p>
+<br/>
+<p><u>Siin on veel suvalist teksti, mis on alla joonitud.</u></p>
+<br/>
+<p>Mida see veel teeb?</p>
+<br/>
+<p>
+<img src = "http://sig-lab.com/gallery/albums/userpics/14353/normal_Mirrors_Edge_11.png" align="middle"></img>
+</p>
+<p>
+ <a href="http://validator.w3.org/check?uri=referer">
+  <img src="http://www.w3.org/Icons/valid-xhtml10" alt="Valid XHTML 1.0 Strict" height="31" width="88" />
+ </a>
+</p>
+
+<?php include ("counter.php");?>
+
+<p>
+<button onclick="myFunction()">Click me</button>
+</p>
+</body>
+</html>
+
